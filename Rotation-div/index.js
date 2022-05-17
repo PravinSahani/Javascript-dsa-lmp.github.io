@@ -7,7 +7,7 @@ function rotateBy180(){
     }
     else{
         document.getElementById("box").
-        style="transform: rotate(-180deg);"
+        style="transform: rotate(0deg);"
     }
     document.getElementById("box").
     innerHTML = count;
